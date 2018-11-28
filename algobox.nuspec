@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>algobox</id>
+    <version>1.0.2</version>
+    <title>algobox (Install)</title>
+    <authors>Guillaume Ferry DN-SU Université de Lorraine</authors>
+    <projectUrl>http://www.xm1math.net/algobox/download.html</projectUrl>
+    <tags>algobox</tags>
+    <summary>Initiation à l'algorithmique</summary>
+    <description>AlgoBox est un logiciel libre, multi-plateforme et gratuit d'aide à l'élaboration et à l'exécution d'algorithmes dans l'esprit des nouveaux programmes de mathématiques du secondaire. </description>
+
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
