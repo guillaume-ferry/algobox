@@ -1,14 +1,12 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = ''
 $url64      = 'http://www.xm1math.net/algobox/assets/files/Algobox_1.0.2_Win_x64.msi'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
   fileType      = 'MSI'
-  url           = $url
   url64bit      = $url64
 
   softwareName  = '.\algobox*'
