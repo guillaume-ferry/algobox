@@ -6,7 +6,7 @@
     <title>algobox (Install)</title>
 	<authors>Pascal Brachet - Lycée Bernard Palissy d'Agen</authors>
 	<owners>Guillaume Ferry - DN-SU Université de Lorraine</owners>
-    <projectUrl>http://www.xm1math.net/algobox/index.html</projectUrl>
+	<projectUrl>http://www.xm1math.net/algobox/index.html</projectUrl>
 	<packageSourceUrl>https://github.com/guillaume-ferry/algobox/tree/master</packageSourceUrl>
     <tags>algobox</tags>
     <summary>Initiation à l'algorithmique</summary>
