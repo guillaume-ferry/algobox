@@ -1,19 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>algobox</id>
     <version>1.0.2</version>
-    <title>algobox (Install)</title>
-	<authors>Pascal Brachet - Lycée Bernard Palissy d'Agen</authors>
-	<owners>Guillaume Ferry - DN-SU Université de Lorraine</owners>
-	<projectUrl>http://www.xm1math.net/algobox/index.html</projectUrl>
-	<packageSourceUrl>https://github.com/guillaume-ferry/algobox/tree/master</packageSourceUrl>
+    <title>Algobox (Install)</title>
+    <authors>Pascal Brachet - Lycée Bernard Palissy d'Agen</authors>
+    <owners>gfe, overage</owners>
+    <projectUrl>http://www.xm1math.net/algobox/index.html</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/guillaume-ferry/algobox/algobox.png</iconUrl>
+    <packageSourceUrl>https://github.com/guillaume-ferry/algobox</packageSourceUrl>
     <tags>algobox</tags>
     <summary>Initiation à l'algorithmique</summary>
-	<docsUrl>http://www.xm1math.net/algobox/doc.html</docsUrl>
-    <description>AlgoBox is an opensource, cross-platform, and free software for developing and executing algorithms in the spirit of new high school math programs.
-	AlgoBox est un logiciel libre, multi-plateforme et gratuit d'aide à l'élaboration et à l'exécution d'algorithmes dans l'esprit des nouveaux programmes de mathématiques du secondaire. 
-	</description>
+    <docsUrl>http://www.xm1math.net/algobox/doc.html</docsUrl>
+    <description><![CDATA[AlgoBox is an opensource, cross-platform, and free software for developing and executing algorithms in the spirit of new high school math programs.
+
+AlgoBox est un logiciel libre, multi-plateforme et gratuit d'aide à l'élaboration et à l'exécution d'algorithmes dans l'esprit des nouveaux programmes de mathématiques du secondaire.
+]]></description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
